@@ -1,4 +1,4 @@
-module StatueMachine_tb();
+module MAQUINAESTADOS_tb();
 
 reg rClk;
 reg rRestart;

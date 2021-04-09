@@ -1,4 +1,4 @@
-module CompuertaAnd_Or(
+module InstanciamientosAnd_Or(
 	input [2:0] iA,
 	input iClk,
 	output oSalida
